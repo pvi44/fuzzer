@@ -7,7 +7,7 @@
 
 # List of files to use as initial seed
 file_list=[
-    "doc_files_samples\Vyhlasenie2per.rtf",
+    "doc_files_samples\LiveCode-Reviewers-Guide-April-2013.doc",
     "doc_files_samples\Work Instructions - Rally Naming Conventions.docx",
     "doc_files_samples\Parilak.doc"
     ]

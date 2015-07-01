@@ -7,11 +7,11 @@
 
 # List of files to use as initial seed
 file_list=[
-    "pdf_files_samples\cert_DD.pdf",
-    "pdf_files_samples\LEA_certifikat.pdf",
-    "pdf_files_samples\ST115_iCOM_Logging_Instructions.pdf",
-    "pdf_files_samples\ST015.x_iCOM_SDK_CApCom_rev5.pdf"
+    "pdf_files_samples\git-cheat-sheet.pdf",
+    "pdf_files_samples\MHD_Denne-linky.pdf",
+    "pdf_files_samples\tabulka-ESR.pdf",
     ]
+
 
 # List of applications to test (vymazal som jednu dalsiu, pouzivam iba jednu a upravil som to dalej v kode)
 app = [
